@@ -22,22 +22,22 @@
   --second-font: 'Inter', sans-serif;
 
   --highlight-color: rgba(255, 255, 255, 0.2);
-  --switch-bg-url: url("./img/moon-star.svg");
+  --switch-bg-url: url("moon-star.svg");
   
   --stroke-color: rgba(255, 255, 255, 0.5);
   --surface-color: rgba(255, 255, 255, 0.1);
   --surface-color-hover: rgba(3, 0, 0, 0.308);
   
-  --bg-image-home: url("./img/bg-home-dark-3.jpg");
+  --bg-image-home: url("bg-home-dark-3.jpg");
   --position-bg-home: 15rem -7rem;
-  --logo-github: url("./img/logo-github-white.svg");
-  --logo-github-hover: url("./img/logo-github-orange.svg");
-  --logo-linkedin: url("./img/logo-linkedin-white.svg");
-  --logo-linkedin-hover: url("./img/logo-linkedin-orange.svg");
+  --logo-github: url("logo-github-white.svg");
+  --logo-github-hover: url("logo-github-orange.svg");
+  --logo-linkedin: url("logo-linkedin-white.svg");
+  --logo-linkedin-hover: url("logo-linkedin-orange.svg");
   
   --button-text-color-hover: #FFFFFF;
 
-  --bg-contact: url("./img/bg-contact-dark.png");
+  --bg-contact: url("bg-contact-dark.png");
   --border-form: none;
   --bg-form: rgba(24, 24, 24, 0.726);
 
@@ -53,22 +53,22 @@
   --card-bg-color: #0800ff;
 
   --highlight-color: rgba(0, 0, 0, 0.25);
-  --switch-bg-url: url("./img/sun.svg");
+  --switch-bg-url: url("sun.svg");
   
   --stroke-color: rgba(0, 0, 0, 0.5);
   --surface-color: rgba(0, 0, 0, 0.1);
   --surface-color-hover: rgba(3, 0, 0, 0.308);
 
-  --bg-image-home: url("./img/bg-home-light-3.avif");
+  --bg-image-home: url("bg-home-light-3.avif");
   --position-bg-home: -70rem 0;
-  --logo-github: url("./img/logo-github-black.svg");
-  --logo-github-hover: url("./img/logo-github-orange.svg");
-  --logo-linkedin: url("./img/logo-linkedin-black.svg");
-  --logo-linkedin-hover: url("./img/logo-linkedin-orange.svg");
+  --logo-github: url("logo-github-black.svg");
+  --logo-github-hover: url("logo-github-orange.svg");
+  --logo-linkedin: url("logo-linkedin-black.svg");
+  --logo-linkedin-hover: url("logo-linkedin-orange.svg");
 
   --button-text-color-hover: #000000;
 
-  --bg-contact: url("./img/bg-contact-white.png");
+  --bg-contact: url("bg-contact-white.png");
   --border-form: 2px solid #0800ff;
   --bg-form: rgba(255, 255, 255, 0.726);
 
@@ -1071,4 +1071,5 @@ form textarea {
   .row {
     width: 90%;
   }
+
 }
